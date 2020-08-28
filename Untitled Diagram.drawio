@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T09:39:54.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="-jMtE7cH84pgTc9K8B2r" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T09:40:11.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="SEjS8ftM4cFX9zrZSmIc" version="13.6.5" type="github">
   <diagram id="SZzoiSN_OJ3JB-Tvaes3" name="Page-1">
     <mxGraphModel dx="1173" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bTTepjC0mgRM0_KY9mRd-46" value="플레이어패에 A가 있는가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="bTTepjC0mgRM0_KY9mRd-46" value="플레이어 패에 A가 있는가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="710" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bTTepjC0mgRM0_KY9mRd-49" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
