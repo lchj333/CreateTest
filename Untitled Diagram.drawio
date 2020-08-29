@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-29T06:00:47.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="QfgbR4T_BDQr_lFKtw9s" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-29T07:06:07.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="OlHmjn27hagfTHY1z4GT" version="13.6.5" type="github">
   <diagram id="SZzoiSN_OJ3JB-Tvaes3" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,8 +88,28 @@
         <mxCell id="PEIPbk3umkVIezuHQ5S2-13" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="420" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PEIPbk3umkVIezuHQ5S2-14" value="합이 21을 넘었는가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="600" width="170" height="80" as="geometry" />
+        <mxCell id="PEIPbk3umkVIezuHQ5S2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PEIPbk3umkVIezuHQ5S2-14" target="PEIPbk3umkVIezuHQ5S2-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="235" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEIPbk3umkVIezuHQ5S2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PEIPbk3umkVIezuHQ5S2-14" target="PEIPbk3umkVIezuHQ5S2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEIPbk3umkVIezuHQ5S2-14" value="딜러보다 합이 높은가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="585" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PEIPbk3umkVIezuHQ5S2-19" value="플레이어 승리" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="665" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PEIPbk3umkVIezuHQ5S2-22" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="600" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PEIPbk3umkVIezuHQ5S2-23" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="680" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
